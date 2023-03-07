@@ -77,7 +77,7 @@ where `<data>` is your input file name. If no switch or input file name is given
 - `dcll.py` - implementation of doubly circular linked list, according to [askpython.com](https://www.askpython.com/python/examples/doubly-circular-linked-list) and to requirements of GCFCG Algorithm,
 - `project.py` - implementation of spatial data classes and Polyline's Region Builder's functions,
 - `README.md` - project description file,
-- `requirements.txt` - list of `pip`-installable libraries that the project requires, currently empty,
+- `requirements.txt` - list of `pip`-installable libraries that the project requires,
 - `test_dcll.py` - unitests of several methods of DCLL Class in pytest,
 - `test_project.py` - unitests of functions of Polyline's Regions Builder.
 
@@ -86,6 +86,7 @@ where `<data>` is your input file name. If no switch or input file name is given
 - csv
 - collections
 - os
+- pytest
 - sys
 - typing
 
