@@ -87,6 +87,7 @@ where `<data>` is your input file name. If no switch or input file name is given
 - collections
 - os
 - sys
+- typing
 
 ### Other aditional libraries required:
 None up till now. I decided to self implement as much as possible (and reasonable).
